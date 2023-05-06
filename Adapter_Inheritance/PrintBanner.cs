@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Adapter_Inheritance
+namespace AdapterInheritance
 {
     public class PrintBanner : Banner, IPrint
     {

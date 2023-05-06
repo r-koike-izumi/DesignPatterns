@@ -1,7 +1,7 @@
 ﻿
 // Adapter 一皮かぶせて再利用(継承)
 
-namespace Adapter_Inheritance
+namespace AdapterInheritance
 {
     class Program
     {

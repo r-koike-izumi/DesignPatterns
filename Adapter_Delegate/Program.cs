@@ -1,7 +1,7 @@
 ﻿
 // Adapter 一皮かぶせて再利用(委譲)
 
-namespace Adapter_Delegate
+namespace AdapterDelegate
 {
     class Program
     {

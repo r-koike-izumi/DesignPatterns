@@ -14,6 +14,7 @@ namespace Flyweight
         {
             _bigchars = new BigChar[str.Length];
             BigCharFactory factory = BigCharFactory.Instance;
+
             for (int i = 0; i < _bigchars.Length; i++)
             {
                 _bigchars[i] = factory.GetBigChar(str[i]);

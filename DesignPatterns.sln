@@ -5,9 +5,9 @@ VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iterator", "Iterator\Iterator.csproj", "{E1E4B495-936D-43D2-8F19-3A1CAA9B9240}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adapter_Inheritance", "Adapter_Inheritance\Adapter_Inheritance.csproj", "{1D9A86A0-29CA-4C0F-A520-93C65DCB4311}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdapterInheritance", "Adapter_Inheritance\AdapterInheritance.csproj", "{1D9A86A0-29CA-4C0F-A520-93C65DCB4311}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adapter_Delegate", "Adapter_Delegate\Adapter_Delegate.csproj", "{5CC9C729-C65A-40B2-999C-4C9A83793D83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdapterDelegate", "Adapter_Delegate\AdapterDelegate.csproj", "{5CC9C729-C65A-40B2-999C-4C9A83793D83}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{9F0E5E52-18FF-499D-A9AB-C7E2166F28FF}"
 EndProject
