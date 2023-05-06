@@ -41,7 +41,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Observer", "Observer\Observ
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Memento", "Memento\Memento.csproj", "{ADCA1C57-C153-40A8-AB4C-5FD55D3559CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State", "State\State.csproj", "{00A6AC8A-4D4C-48EE-AC0D-EB67C8004201}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "State", "State\State.csproj", "{00A6AC8A-4D4C-48EE-AC0D-EB67C8004201}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight", "Flyweight\Flyweight.csproj", "{F7CCDFFF-F717-427E-95C7-8CA866DFE0F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{00A6AC8A-4D4C-48EE-AC0D-EB67C8004201}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00A6AC8A-4D4C-48EE-AC0D-EB67C8004201}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00A6AC8A-4D4C-48EE-AC0D-EB67C8004201}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7CCDFFF-F717-427E-95C7-8CA866DFE0F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7CCDFFF-F717-427E-95C7-8CA866DFE0F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7CCDFFF-F717-427E-95C7-8CA866DFE0F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7CCDFFF-F717-427E-95C7-8CA866DFE0F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
