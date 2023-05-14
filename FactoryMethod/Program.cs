@@ -1,8 +1,8 @@
 ﻿
 // FactoryMethod インスタンス作成をサブクラスにまかせる
 
-using FactoryMethod_Framework;
-using FactoryMethod_IDCard;
+using FactoryMethodFramework;
+using FactoryMethodIDCard;
 
 namespace FactoryMethod
 {

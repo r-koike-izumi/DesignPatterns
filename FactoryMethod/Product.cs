@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FactoryMethod_Framework
+namespace FactoryMethodFramework
 {
     public abstract class Product
     {

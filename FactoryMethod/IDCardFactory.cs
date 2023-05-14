@@ -1,6 +1,6 @@
-﻿using FactoryMethod_Framework;
+﻿using FactoryMethodFramework;
 
-namespace FactoryMethod_IDCard
+namespace FactoryMethodIDCard
 {
     public class IDCardFactory : Factory
     {

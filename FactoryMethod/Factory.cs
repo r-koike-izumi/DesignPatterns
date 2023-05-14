@@ -5,7 +5,7 @@ using System.Reflection.Metadata.Ecma335;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FactoryMethod_Framework
+namespace FactoryMethodFramework
 {
     public abstract class Factory
     {
