@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CommandCommand;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -16,5 +17,8 @@ namespace Command
         {
             InitializeComponent();
         }
+
+        private MacroCommand _commands = new MacroCommand();
+        private bool _drag = false;
     }
 }
